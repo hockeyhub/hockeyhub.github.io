@@ -134,7 +134,7 @@ var app = new Vue({
         cmdTrades: function (arg) {
             var team = this.teamFromID(arg);
             if (team) {
-                return `http://nhltradetracker.com/user/trade_list_by_team/${team.refs.nhltradetracker}/1`;
+                return `https://nhltradetracker.com/user/trade_list_by_team/${team.refs.nhltradetracker}/1`;
             }
 
         }
