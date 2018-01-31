@@ -45,7 +45,7 @@ var app = new Vue({
             "!lines habs",
             "!prospects canadiens",
             "!cap hawks",
-            "!cap breant seabrook",
+            "!cap brent seabrook",
             "!reddit leafs",
             "!trades oilers",
         ]
@@ -58,6 +58,7 @@ var app = new Vue({
         this.load(teams);
         this.commands = {
             'lines': this.buildCmdTeam("https://www.dailyfaceoff.com/teams/{}/line-combinations", "dailyfaceoff"),
+            'stats': this.buildCmdTeam("https://www.nhl.com/{}/stats", "nhl"),
             'draft': this.cmdDraft, // custom
             'depth': this.buildCmdTeam("https://eliteprospects.com/depthchart.php?team={}", "eliteprospects"),
             'cap': this.cmdCap, // custom
@@ -82,7 +83,7 @@ var app = new Vue({
     },
     watch: {
         query: function (text) {
-            var s = this.parse(text);
+            var s = this.parse(text.trim());
             if (s) {
                 this.url = s;
                 this.params = parseQueryPairs(s);
@@ -152,7 +153,6 @@ var app = new Vue({
             }
         },
         loadExample: function (event) {
-            console.log(arguments);
             this.query = event;
         },
     }
