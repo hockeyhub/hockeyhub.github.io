@@ -1,5 +1,9 @@
 body {
     text-align: center;
+    margin-bottom: 100px;
+}
+[v-cloak] {
+    display: none;
 }
 .content {
     margin-top: 20px;
@@ -12,17 +16,35 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-tr td:first-child {
+.commands td:first-child {
     text-align:right;
     padding-right: 20px;
-    font-size: small;
     font-family: monospace;
 }
-tr td:last-child {
+.commands td:last-child {
     text-align:left;
-    font-size: smaller;
+    font-size: small;
     color: #555;
 }
-tr td .arg {
+.commands td .arg {
     text-decoration: underline;
+}
+.examples .code {
+    display: inline-block;
+    text-decoration: underline;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: monospace;
+    cursor: pointer;
+}
+.examples .code:hover {
+    color: #555;
+}
+.help td span {
+    text-decoration: underline;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.help thead th {
+    text-align: center;
 }

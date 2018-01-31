@@ -1,451 +1,514 @@
 {
   "teams": [
     {
+      "refs": {
+        "hockeydb": "00004643",
+        "eliteprospects": "1580",
+        "nhltradetracker": "anaheim_ducks",
+        "reddit": "anaheimducks",
+        "capfriendly": "ducks",
+        "dailyfaceoff": "anaheim-ducks"
+      },
+      "fullname": "Anaheim Ducks",
+      "city": "anaheim",
       "names": [
         "ducks"
       ],
-      "code": "ana",
-      "refs": {
-        "reddit": "anaheimducks",
-        "nhltradetracker": "anaheim_ducks",
-        "hockeydb": "00004643",
-        "eliteprospects": "1580",
-        "capfriendly": "ducks"
-      },
-      "city": "anaheim"
+      "code": "ana"
     },
     {
+      "refs": {
+        "hockeydb": "00004919",
+        "eliteprospects": "52",
+        "nhltradetracker": "boston_bruins",
+        "reddit": "bostonbruins",
+        "capfriendly": "bruins",
+        "dailyfaceoff": "boston-bruins"
+      },
+      "fullname": "Boston Bruins",
+      "city": "boston",
       "names": [
         "bruins"
       ],
-      "code": "bos",
-      "refs": {
-        "reddit": "bostonbruins",
-        "nhltradetracker": "boston_bruins",
-        "hockeydb": "00004919",
-        "eliteprospects": "52",
-        "capfriendly": "bruins"
-      },
-      "city": "boston"
+      "code": "bos"
     },
     {
+      "refs": {
+        "hockeydb": "00005054",
+        "eliteprospects": "53",
+        "nhltradetracker": "buffalo_sabres",
+        "reddit": "sabres",
+        "capfriendly": "sabres",
+        "dailyfaceoff": "buffalo-sabres"
+      },
+      "fullname": "Buffalo Sabres",
+      "city": "buffalo",
       "names": [
         "sabres"
       ],
-      "code": "buf",
-      "refs": {
-        "reddit": "sabres",
-        "nhltradetracker": "buffalo_sabres",
-        "hockeydb": "00005054",
-        "eliteprospects": "53",
-        "capfriendly": "sabres"
-      },
-      "city": "buffalo"
+      "code": "buf"
     },
     {
+      "refs": {
+        "hockeydb": "00005090",
+        "eliteprospects": "54",
+        "nhltradetracker": "calgary_flames",
+        "reddit": "calgaryflames",
+        "capfriendly": "flames",
+        "dailyfaceoff": "calgary-flames"
+      },
+      "fullname": "Calgary Flames",
+      "city": "calgary",
       "names": [
         "flames"
       ],
-      "code": "cgy",
-      "refs": {
-        "reddit": "calgaryflames",
-        "nhltradetracker": "calgary_flames",
-        "hockeydb": "00005090",
-        "eliteprospects": "54",
-        "capfriendly": "flames"
-      },
-      "city": "calgary"
+      "code": "cgy"
     },
     {
+      "refs": {
+        "hockeydb": "00005154",
+        "eliteprospects": "55",
+        "nhltradetracker": "carolina_hurricanes",
+        "reddit": "canes",
+        "capfriendly": "hurricanes",
+        "dailyfaceoff": "carolina-hurricanes"
+      },
+      "fullname": "Carolina Hurricanes",
+      "city": "carolina",
       "names": [
         "hurricanes",
         "canes"
       ],
-      "code": "car",
-      "refs": {
-        "reddit": "canes",
-        "nhltradetracker": "carolina_hurricanes",
-        "hockeydb": "00005154",
-        "eliteprospects": "55",
-        "capfriendly": "hurricanes"
-      },
-      "city": "carolina"
+      "code": "car"
     },
     {
+      "refs": {
+        "hockeydb": "00005218",
+        "eliteprospects": "56",
+        "nhltradetracker": "chicago_blackhawks",
+        "reddit": "hawks",
+        "capfriendly": "blackhawks",
+        "dailyfaceoff": "chicago-blackhawks"
+      },
+      "fullname": "Chicago Blackhawks",
+      "city": "chicago",
       "names": [
         "blackhawks",
         "hawks"
       ],
-      "code": "chi",
-      "refs": {
-        "reddit": "hawks",
-        "nhltradetracker": "chicago_blackhawks",
-        "hockeydb": "00005218",
-        "eliteprospects": "56",
-        "capfriendly": "blackhawks"
-      },
-      "city": "chicago"
+      "code": "chi"
     },
     {
+      "refs": {
+        "hockeydb": "00005307",
+        "eliteprospects": "57",
+        "nhltradetracker": "colorado_avalanche",
+        "reddit": "coloradoavalanche",
+        "capfriendly": "avalanche",
+        "dailyfaceoff": "colorado-avalanche"
+      },
+      "fullname": "Colorado Avalanche",
+      "city": "colorado",
       "names": [
         "avalanche",
         "avs"
       ],
-      "code": "col",
-      "refs": {
-        "reddit": "coloradoavalanche",
-        "nhltradetracker": "colorado_avalanche",
-        "hockeydb": "00005307",
-        "eliteprospects": "57",
-        "capfriendly": "avalanche"
-      },
-      "city": "colorado"
+      "code": "col"
     },
     {
+      "refs": {
+        "hockeydb": "00005316",
+        "eliteprospects": "58",
+        "nhltradetracker": "columbus_blue_jackets",
+        "reddit": "bluejackets",
+        "capfriendly": "bluejackets",
+        "dailyfaceoff": "columbus-blue-jackets"
+      },
+      "fullname": "Columbus Blue Jackets",
+      "city": "columbus",
       "names": [
         "blue jackets",
         "jackets"
       ],
-      "code": "cbj",
-      "refs": {
-        "reddit": "bluejackets",
-        "nhltradetracker": "columbus_blue_jackets",
-        "hockeydb": "00005316",
-        "eliteprospects": "58",
-        "capfriendly": "bluejackets"
-      },
-      "city": "columbus"
+      "code": "cbj"
     },
     {
+      "refs": {
+        "hockeydb": "00005404",
+        "eliteprospects": "59",
+        "nhltradetracker": "dallas_stars",
+        "reddit": "dallasstars",
+        "capfriendly": "stars",
+        "dailyfaceoff": "dallas-stars"
+      },
+      "fullname": "Dallas Stars",
+      "city": "dallas",
       "names": [
         "stars"
       ],
-      "code": "dal",
-      "refs": {
-        "reddit": "dallasstars",
-        "nhltradetracker": "dallas_stars",
-        "hockeydb": "00005404",
-        "eliteprospects": "59",
-        "capfriendly": "stars"
-      },
-      "city": "dallas"
+      "code": "dal"
     },
     {
+      "refs": {
+        "hockeydb": "00005492",
+        "eliteprospects": "60",
+        "nhltradetracker": "detroit_red_wings",
+        "reddit": "detroitredwings",
+        "capfriendly": "redwings",
+        "dailyfaceoff": "detroit-red-wings"
+      },
+      "fullname": "Detroit Red Wings",
+      "city": "detroit",
       "names": [
         "red wings",
         "wings"
       ],
-      "code": "det",
-      "refs": {
-        "reddit": "detroitredwings",
-        "nhltradetracker": "detroit_red_wings",
-        "hockeydb": "00005492",
-        "eliteprospects": "60",
-        "capfriendly": "redwings"
-      },
-      "city": "detroit"
+      "code": "det"
     },
     {
+      "refs": {
+        "hockeydb": "00005632",
+        "eliteprospects": "61",
+        "nhltradetracker": "edmonton_oilers",
+        "reddit": "edmontonoilers",
+        "capfriendly": "oilers",
+        "dailyfaceoff": "edmonton-oilers"
+      },
+      "fullname": "Edmonton Oilers",
+      "city": "edmonton",
       "names": [
         "oilers"
       ],
-      "code": "edm",
-      "refs": {
-        "reddit": "edmontonoilers",
-        "nhltradetracker": "edmonton_oilers",
-        "hockeydb": "00005632",
-        "eliteprospects": "61",
-        "capfriendly": "oilers"
-      },
-      "city": "edmonton"
+      "code": "edm"
     },
     {
+      "refs": {
+        "hockeydb": "00005763",
+        "eliteprospects": "62",
+        "nhltradetracker": "florida_panthers",
+        "reddit": "panthers",
+        "capfriendly": "panthers",
+        "dailyfaceoff": "florida-panthers"
+      },
+      "fullname": "Florida Panthers",
+      "city": "florida",
       "names": [
         "panthers"
       ],
-      "code": "fla",
-      "refs": {
-        "reddit": "panthers",
-        "nhltradetracker": "florida_panthers",
-        "hockeydb": "00005763",
-        "eliteprospects": "62",
-        "capfriendly": "panthers"
-      },
-      "city": "florida"
+      "code": "fla"
     },
     {
+      "refs": {
+        "hockeydb": "00006664",
+        "eliteprospects": "79",
+        "nhltradetracker": "los_angeles_kings",
+        "reddit": "losangeleskings",
+        "capfriendly": "kings",
+        "dailyfaceoff": "los-angeles-kings"
+      },
+      "fullname": "Los Angeles Kings",
+      "city": "los angeles",
       "names": [
         "kings"
       ],
-      "code": "lak",
-      "refs": {
-        "reddit": "losangeleskings",
-        "nhltradetracker": "los_angeles_kings",
-        "hockeydb": "00006664",
-        "eliteprospects": "79",
-        "capfriendly": "kings"
-      },
-      "city": "los angeles"
+      "code": "lak"
     },
     {
+      "refs": {
+        "hockeydb": "00006879",
+        "eliteprospects": "63",
+        "nhltradetracker": "minnesota_wild",
+        "reddit": "wildhockey",
+        "capfriendly": "wild",
+        "dailyfaceoff": "minnesota-wild"
+      },
+      "fullname": "Minnesota Wild",
+      "city": "minnesota",
       "names": [
         "wild"
       ],
-      "code": "min",
-      "refs": {
-        "reddit": "wildhockey",
-        "nhltradetracker": "minnesota_wild",
-        "hockeydb": "00006879",
-        "eliteprospects": "63",
-        "capfriendly": "wild"
-      },
-      "city": "minnesota"
+      "code": "min"
     },
     {
+      "refs": {
+        "hockeydb": "00006929",
+        "eliteprospects": "64",
+        "nhltradetracker": "montreal_canadiens",
+        "reddit": "habs",
+        "capfriendly": "canadiens",
+        "dailyfaceoff": "montreal-canadiens"
+      },
+      "fullname": "Montreal Canadiens",
+      "city": "montreal",
       "names": [
         "canadiens",
         "habs"
       ],
-      "code": "mtl",
-      "refs": {
-        "reddit": "habs",
-        "nhltradetracker": "montreal_canadiens",
-        "hockeydb": "00006929",
-        "eliteprospects": "64",
-        "capfriendly": "canadiens"
-      },
-      "city": "montreal"
+      "code": "mtl"
     },
     {
+      "refs": {
+        "hockeydb": "00007024",
+        "eliteprospects": "65",
+        "nhltradetracker": "nashville_predators",
+        "reddit": "predators",
+        "capfriendly": "predators",
+        "dailyfaceoff": "nashville-predators"
+      },
+      "fullname": "Nashville Predators",
+      "city": "nashville",
       "names": [
         "predators",
         "preds"
       ],
-      "code": "nsh",
-      "refs": {
-        "reddit": "predators",
-        "nhltradetracker": "nashville_predators",
-        "hockeydb": "00007024",
-        "eliteprospects": "65",
-        "capfriendly": "predators"
-      },
-      "city": "nashville"
+      "code": "nsh"
     },
     {
+      "refs": {
+        "hockeydb": "00007066",
+        "eliteprospects": "66",
+        "nhltradetracker": "new_jersey_devils",
+        "reddit": "devils",
+        "capfriendly": "devils",
+        "dailyfaceoff": "new-jersey-devils"
+      },
+      "fullname": "New Jersey Devils",
+      "city": "new jersey",
       "names": [
         "devils"
       ],
-      "code": "njd",
-      "refs": {
-        "reddit": "devils",
-        "nhltradetracker": "new_jersey_devils",
-        "hockeydb": "00007066",
-        "eliteprospects": "66",
-        "capfriendly": "devils"
-      },
-      "city": "new jersey"
+      "code": "njd"
     },
     {
+      "refs": {
+        "hockeydb": "00007085",
+        "eliteprospects": "67",
+        "nhltradetracker": "new_york_islanders",
+        "reddit": "newyorkislanders",
+        "capfriendly": "islanders",
+        "dailyfaceoff": "new-york-islanders"
+      },
+      "fullname": "New York Islanders",
+      "city": null,
       "names": [
         "islanders",
         "isles"
       ],
-      "code": "nyi",
-      "refs": {
-        "reddit": "newyorkislanders",
-        "nhltradetracker": "new_york_islanders",
-        "hockeydb": "00007085",
-        "eliteprospects": "67",
-        "capfriendly": "islanders"
-      },
-      "city": null
+      "code": "nyi"
     },
     {
+      "refs": {
+        "hockeydb": "00007089",
+        "eliteprospects": "68",
+        "nhltradetracker": "new_york_rangers",
+        "reddit": "rangers",
+        "capfriendly": "rangers",
+        "dailyfaceoff": "new-york-rangers"
+      },
+      "fullname": "New York Rangers",
+      "city": null,
       "names": [
         "rangers"
       ],
-      "code": "nyr",
-      "refs": {
-        "reddit": "rangers",
-        "nhltradetracker": "new_york_rangers",
-        "hockeydb": "00007089",
-        "eliteprospects": "68",
-        "capfriendly": "rangers"
-      },
-      "city": null
+      "code": "nyr"
     },
     {
+      "refs": {
+        "hockeydb": "00007328",
+        "eliteprospects": "69",
+        "nhltradetracker": "ottawa_senators",
+        "reddit": "ottawasenators",
+        "capfriendly": "senators",
+        "dailyfaceoff": "ottawa-senators"
+      },
+      "fullname": "Ottawa Senators",
+      "city": "ottawa",
       "names": [
         "senators",
         "sens"
       ],
-      "code": "ott",
-      "refs": {
-        "reddit": "ottawasenators",
-        "nhltradetracker": "ottawa_senators",
-        "hockeydb": "00007328",
-        "eliteprospects": "69",
-        "capfriendly": "senators"
-      },
-      "city": "ottawa"
+      "code": "ott"
     },
     {
+      "refs": {
+        "hockeydb": "00007439",
+        "eliteprospects": "70",
+        "nhltradetracker": "philadelphia_flyers",
+        "reddit": "flyers",
+        "capfriendly": "flyers",
+        "dailyfaceoff": "philadelphia-flyers"
+      },
+      "fullname": "Philadelphia Flyers",
+      "city": "philadelphia",
       "names": [
         "flyers"
       ],
-      "code": "phi",
-      "refs": {
-        "reddit": "flyers",
-        "nhltradetracker": "philadelphia_flyers",
-        "hockeydb": "00007439",
-        "eliteprospects": "70",
-        "capfriendly": "flyers"
-      },
-      "city": "philadelphia"
+      "code": "phi"
     },
     {
+      "refs": {
+        "hockeydb": "00007450",
+        "eliteprospects": "72",
+        "nhltradetracker": "pheonix_coyotes",
+        "reddit": "coyotes",
+        "capfriendly": "coyotes",
+        "dailyfaceoff": "arizona-coyotes"
+      },
+      "fullname": "Arizona Coyotes",
+      "city": "pheonix",
       "names": [
         "coyotes"
       ],
-      "code": "ari",
-      "refs": {
-        "reddit": "coyotes",
-        "nhltradetracker": "pheonix_coyotes",
-        "hockeydb": "00007450",
-        "eliteprospects": "72",
-        "capfriendly": "coyotes"
-      },
-      "city": "pheonix"
+      "code": "ari"
     },
     {
+      "refs": {
+        "hockeydb": "00007475",
+        "eliteprospects": "71",
+        "nhltradetracker": "pittsburgh_penguins",
+        "reddit": "penguins",
+        "capfriendly": "penguins",
+        "dailyfaceoff": "pittsburgh-penguins"
+      },
+      "fullname": "Pittsburgh Penguins",
+      "city": "pittsburgh",
       "names": [
         "penguins",
         "pens"
       ],
-      "code": "pit",
-      "refs": {
-        "reddit": "penguins",
-        "nhltradetracker": "pittsburgh_penguins",
-        "hockeydb": "00007475",
-        "eliteprospects": "71",
-        "capfriendly": "penguins"
-      },
-      "city": "pittsburgh"
+      "code": "pit"
     },
     {
+      "refs": {
+        "hockeydb": "00007877",
+        "eliteprospects": "73",
+        "nhltradetracker": "san_jose_sharks",
+        "reddit": "sanjosesharks",
+        "capfriendly": "sharks",
+        "dailyfaceoff": "san-jose-sharks"
+      },
+      "fullname": "San Jose Sharks",
+      "city": "san jose",
       "names": [
         "sharks"
       ],
-      "code": "sjs",
-      "refs": {
-        "reddit": "sanjosesharks",
-        "nhltradetracker": "san_jose_sharks",
-        "hockeydb": "00007877",
-        "eliteprospects": "73",
-        "capfriendly": "sharks"
-      },
-      "city": "san jose"
+      "code": "sjs"
     },
     {
+      "refs": {
+        "hockeydb": "00008187",
+        "eliteprospects": "74",
+        "nhltradetracker": "st._louis_blues",
+        "reddit": "stlouisblues",
+        "capfriendly": "blues",
+        "dailyfaceoff": "st-louis-blues"
+      },
+      "fullname": "St. Louis Blues",
+      "city": "st. louis",
       "names": [
         "blues"
       ],
-      "code": "stl",
-      "refs": {
-        "reddit": "stlouisblues",
-        "nhltradetracker": "st._louis_blues",
-        "hockeydb": "00008187",
-        "eliteprospects": "74",
-        "capfriendly": "blues"
-      },
-      "city": "st. louis"
+      "code": "stl"
     },
     {
+      "refs": {
+        "hockeydb": "00008385",
+        "eliteprospects": "75",
+        "nhltradetracker": "tampa_bay_lightning",
+        "reddit": "tampabaylightning",
+        "capfriendly": "lightning",
+        "dailyfaceoff": "tampa-bay-lightning"
+      },
+      "fullname": "Tampa Bay Lightning",
+      "city": "tampa bay",
       "names": [
         "lightning"
       ],
-      "code": "tbl",
-      "refs": {
-        "reddit": "tampabaylightning",
-        "nhltradetracker": "tampa_bay_lightning",
-        "hockeydb": "00008385",
-        "eliteprospects": "75",
-        "capfriendly": "lightning"
-      },
-      "city": "tampa bay"
+      "code": "tbl"
     },
     {
-      "names": [
-        "maple leafs"
-      ],
-      "code": "tor",
       "refs": {
-        "reddit": "leafs",
-        "nhltradetracker": "toronto_maple_leafs",
         "hockeydb": "00008490",
         "eliteprospects": "76",
-        "capfriendly": "mapleleafs"
+        "nhltradetracker": "toronto_maple_leafs",
+        "reddit": "leafs",
+        "capfriendly": "mapleleafs",
+        "dailyfaceoff": "toronto-maple-leafs"
       },
-      "city": "toronto"
+      "fullname": "Toronto Maple Leafs",
+      "city": "toronto",
+      "names": [
+        "maple leafs",
+        "leafs"
+      ],
+      "code": "tor"
     },
     {
+      "refs": {
+        "hockeydb": "00008756",
+        "eliteprospects": "77",
+        "nhltradetracker": "vancouver_caucks",
+        "reddit": "canucks",
+        "capfriendly": "caucks",
+        "dailyfaceoff": "vancouver-canucks"
+      },
+      "fullname": "Vancouver Canucks",
+      "city": "vancouver",
       "names": [
         "caucks",
         "nucks"
       ],
-      "code": "van",
-      "refs": {
-        "reddit": "canucks",
-        "nhltradetracker": "vancouver_caucks",
-        "hockeydb": "00008756",
-        "eliteprospects": "77",
-        "capfriendly": "caucks"
-      },
-      "city": "vancouver"
+      "code": "van"
     },
     {
+      "refs": {
+        "hockeydb": "00011894",
+        "eliteprospects": "22211",
+        "nhltradetracker": "las_vegas_knights",
+        "reddit": "goldenknights",
+        "capfriendly": "goldenknights",
+        "dailyfaceoff": "vegas-golden-knights"
+      },
+      "fullname": "Vegas Golden Knights",
+      "city": "vegas",
       "names": [
         "golden knights",
         "knights"
       ],
-      "code": "vgk",
-      "refs": {
-        "reddit": "goldenknights",
-        "nhltradetracker": "las_vegas_knights",
-        "hockeydb": "00011894",
-        "eliteprospects": "22211",
-        "capfriendly": "goldenknights"
-      },
-      "city": "vegas"
+      "code": "vgk"
     },
     {
+      "refs": {
+        "hockeydb": "00008871",
+        "eliteprospects": "78",
+        "nhltradetracker": "washington_capitals",
+        "reddit": "caps",
+        "capfriendly": "capitals",
+        "dailyfaceoff": "washington-capitals"
+      },
+      "fullname": "Washington Capitals",
+      "city": "washington",
       "names": [
         "capitals",
         "caps"
       ],
-      "code": "wsh",
-      "refs": {
-        "reddit": "caps",
-        "nhltradetracker": "washington_capitals",
-        "hockeydb": "00008871",
-        "eliteprospects": "78",
-        "capfriendly": "capitals"
-      },
-      "city": "washington"
+      "code": "wsh"
     },
     {
+      "refs": {
+        "hockeydb": "00010675",
+        "eliteprospects": "9966",
+        "nhltradetracker": "winnipeg_jets",
+        "reddit": "winnipegjets",
+        "capfriendly": "jets",
+        "dailyfaceoff": "winnipeg-jets"
+      },
+      "fullname": "Winnipeg Jets",
+      "city": "winnipeg",
       "names": [
         "jets"
       ],
-      "code": "wpg",
-      "refs": {
-        "reddit": "winnipegjets",
-        "nhltradetracker": "winnipeg_jets",
-        "hockeydb": "00010675",
-        "eliteprospects": "9966",
-        "capfriendly": "jets"
-      },
-      "city": "winnipeg"
+      "code": "wpg"
     }
   ]
 }
