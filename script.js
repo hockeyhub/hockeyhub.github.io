@@ -1,10 +1,6 @@
-function parseQueryPairs(href) {
+function parseQueryString(search) {
     var params = {};
 
-    var a = document.createElement('a');
-    a.href = href;
-
-    var search = a.search;
     if (search.length > 1) {
         search = search.substring(1);
         var pairs = search.split('&');
@@ -16,6 +12,15 @@ function parseQueryPairs(href) {
         }
     }
     return params;
+}
+
+function parseURLQueryString(href) {
+    var params = {};
+
+    var a = document.createElement('a');
+    a.href = href;
+
+    return parseQueryString(a.search);
 }
 
 function insertVariants(obj, name, val) {
@@ -47,7 +52,7 @@ var help_queries = [
     makeHelp('lines', { args: ['team'] }, "Team lines on Daily Faceoff"),
     makeHelp('stats', { args: ['team'], opts: ['year'] }, "Team stats on nhl.com, year optional"),
     makeHelp('schedule', { args: ['team'] }, "Team schedule on nhl.com"),
-    makeHelp('draft', { or: ['team', 'year'] }, "Draft history for team or year on Hockey-Reference"),
+    makeHelp('draft', { or: ['team', 'year'] }, "Draft history for team or year on Elite Prospects"),
     makeHelp('cap', { or: ['team', 'player'] }, "Cap information for team or player on CapFriendly"),
     makeHelp('player', { args: ['player'] }, "Search for player on Elite Prospects"),
     makeHelp('depth', { args: ['team'] }, "Team depth chart on Elite Prospects"),
@@ -114,6 +119,19 @@ var app = new Vue({
         addHelp(this.names);
         addHelp(this.codes);
         addHelp(this.cities);
+
+        var params = parseQueryString(window.location.search);
+        if (params.search) {
+            var app = this;
+            this.query = params.search;
+            setTimeout(function () {
+                if (app.url) {
+                    var form = document.getElementById('query_form');
+                    form.setAttribute('target', '');
+                    form.submit();
+                }
+            });
+        }
     },
     watch: {
         query: function (text) {
@@ -121,7 +139,7 @@ var app = new Vue({
             if (url) {
                 if (typeof url === 'string') {
                     this.url = url;
-                    this.params = parseQueryPairs(url);
+                    this.params = parseURLQueryString(url);
                     this.method = "get";
                 } else {
                     this.url = url.url;
@@ -152,6 +170,16 @@ var app = new Vue({
 
         loadExample: function (event) {
             this.query = event.target.innerText.trim();
+        },
+
+        shareLink: function (event) {
+            var base = window.location.href;
+            var cut = base.lastIndexOf('?');
+            if (cut < 0) {
+                cut = base.length;
+            }
+            base = base.substring(0, cut);
+            prompt("Copy the URL", format("{}?search={}", base, encodeURIComponent(this.query)));
         },
 
         /**
@@ -240,9 +268,9 @@ var app = new Vue({
         },
         cmdDraft: function (res) {
             if (res.year != null) {
-                return format("https://www.hockey-reference.com/draft/NHL_{}_entry.html", res.year);
+                return format("http://www.eliteprospects.com/draft.php?year={}", res.year);
             } else if (res.team != null) {
-                return this.urlFromTeamRef(res.team, "https://www.hockey-reference.com/teams/{}/draft.html", "hockey-reference");
+                return this.urlFromTeamRef(res.team, "http://www.eliteprospects.com/draft_by_team.php?TeamID={}", "eliteprospects");
             }
         },
         cmdCap: function (res) {
