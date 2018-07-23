@@ -10,7 +10,8 @@
       "refs": {
         "capfriendly": "ducks",
         "dailyfaceoff": "anaheim-ducks",
-        "eliteprospects": "1580",
+        "eliteprospects_id": "1580",
+        "eliteprospects_name": "anaheim-ducks",
         "highlights": "ANA",
         "hockey-reference": "ANA",
         "hockeydb": "00004643",
@@ -29,7 +30,8 @@
       "refs": {
         "capfriendly": "bruins",
         "dailyfaceoff": "boston-bruins",
-        "eliteprospects": "52",
+        "eliteprospects_id": "52",
+        "eliteprospects_name": "boston-bruins",
         "highlights": "BOS",
         "hockey-reference": "BOS",
         "hockeydb": "00004919",
@@ -48,7 +50,8 @@
       "refs": {
         "capfriendly": "sabres",
         "dailyfaceoff": "buffalo-sabres",
-        "eliteprospects": "53",
+        "eliteprospects_id": "53",
+        "eliteprospects_name": "buffalo-sabres",
         "highlights": "BUF",
         "hockey-reference": "BUF",
         "hockeydb": "00005054",
@@ -67,7 +70,8 @@
       "refs": {
         "capfriendly": "flames",
         "dailyfaceoff": "calgary-flames",
-        "eliteprospects": "54",
+        "eliteprospects_id": "54",
+        "eliteprospects_name": "calgary-flames",
         "highlights": "CGY",
         "hockey-reference": "CGY",
         "hockeydb": "00005090",
@@ -87,7 +91,8 @@
       "refs": {
         "capfriendly": "hurricanes",
         "dailyfaceoff": "carolina-hurricanes",
-        "eliteprospects": "55",
+        "eliteprospects_id": "55",
+        "eliteprospects_name": "carolina-hurricanes",
         "highlights": "CAR",
         "hockey-reference": "CAR",
         "hockeydb": "00005154",
@@ -107,7 +112,8 @@
       "refs": {
         "capfriendly": "blackhawks",
         "dailyfaceoff": "chicago-blackhawks",
-        "eliteprospects": "56",
+        "eliteprospects_id": "56",
+        "eliteprospects_name": "chicago-blackhawks",
         "highlights": "CHI",
         "hockey-reference": "CHI",
         "hockeydb": "00005218",
@@ -127,7 +133,8 @@
       "refs": {
         "capfriendly": "avalanche",
         "dailyfaceoff": "colorado-avalanche",
-        "eliteprospects": "57",
+        "eliteprospects_id": "57",
+        "eliteprospects_name": "colorado-avalanche",
         "highlights": "COL",
         "hockey-reference": "COL",
         "hockeydb": "00005307",
@@ -147,7 +154,8 @@
       "refs": {
         "capfriendly": "bluejackets",
         "dailyfaceoff": "columbus-blue-jackets",
-        "eliteprospects": "58",
+        "eliteprospects_id": "58",
+        "eliteprospects_name": "columbus-blue-jackets",
         "highlights": "CBJ",
         "hockey-reference": "CBJ",
         "hockeydb": "00005316",
@@ -166,7 +174,8 @@
       "refs": {
         "capfriendly": "stars",
         "dailyfaceoff": "dallas-stars",
-        "eliteprospects": "59",
+        "eliteprospects_id": "59",
+        "eliteprospects_name": "dallas-stars",
         "highlights": "DAL",
         "hockey-reference": "DAL",
         "hockeydb": "00005404",
@@ -186,7 +195,8 @@
       "refs": {
         "capfriendly": "redwings",
         "dailyfaceoff": "detroit-red-wings",
-        "eliteprospects": "60",
+        "eliteprospects_id": "60",
+        "eliteprospects_name": "detroit-red-wings",
         "highlights": "DET",
         "hockey-reference": "DET",
         "hockeydb": "00005492",
@@ -205,7 +215,8 @@
       "refs": {
         "capfriendly": "oilers",
         "dailyfaceoff": "edmonton-oilers",
-        "eliteprospects": "61",
+        "eliteprospects_id": "61",
+        "eliteprospects_name": "edmonton-oilers",
         "highlights": "EDM",
         "hockey-reference": "EDM",
         "hockeydb": "00005632",
@@ -224,7 +235,8 @@
       "refs": {
         "capfriendly": "panthers",
         "dailyfaceoff": "florida-panthers",
-        "eliteprospects": "62",
+        "eliteprospects_id": "62",
+        "eliteprospects_name": "florida-panthers",
         "highlights": "FLA",
         "hockey-reference": "FLA",
         "hockeydb": "00005763",
@@ -243,7 +255,8 @@
       "refs": {
         "capfriendly": "kings",
         "dailyfaceoff": "los-angeles-kings",
-        "eliteprospects": "79",
+        "eliteprospects_id": "79",
+        "eliteprospects_name": "los-angeles-kings",
         "highlights": "LAK",
         "hockey-reference": "LAK",
         "hockeydb": "00006664",
@@ -262,7 +275,8 @@
       "refs": {
         "capfriendly": "wild",
         "dailyfaceoff": "minnesota-wild",
-        "eliteprospects": "63",
+        "eliteprospects_id": "63",
+        "eliteprospects_name": "minnesota-wild",
         "highlights": "MIN",
         "hockey-reference": "MIN",
         "hockeydb": "00006879",
@@ -282,7 +296,8 @@
       "refs": {
         "capfriendly": "canadiens",
         "dailyfaceoff": "montreal-canadiens",
-        "eliteprospects": "64",
+        "eliteprospects_id": "64",
+        "eliteprospects_name": "montreal-canadiens",
         "highlights": "MTL",
         "hockey-reference": "MTL",
         "hockeydb": "00006929",
@@ -302,7 +317,8 @@
       "refs": {
         "capfriendly": "predators",
         "dailyfaceoff": "nashville-predators",
-        "eliteprospects": "65",
+        "eliteprospects_id": "65",
+        "eliteprospects_name": "nashville-predators",
         "highlights": "NSH",
         "hockey-reference": "NSH",
         "hockeydb": "00007024",
@@ -321,7 +337,8 @@
       "refs": {
         "capfriendly": "devils",
         "dailyfaceoff": "new-jersey-devils",
-        "eliteprospects": "66",
+        "eliteprospects_id": "66",
+        "eliteprospects_name": "new-jersey-devils",
         "highlights": "NJD",
         "hockey-reference": "NJD",
         "hockeydb": "00007066",
@@ -341,7 +358,8 @@
       "refs": {
         "capfriendly": "islanders",
         "dailyfaceoff": "new-york-islanders",
-        "eliteprospects": "67",
+        "eliteprospects_id": "67",
+        "eliteprospects_name": "new-york-islanders",
         "highlights": "NYI",
         "hockey-reference": "NYI",
         "hockeydb": "00007085",
@@ -360,7 +378,8 @@
       "refs": {
         "capfriendly": "rangers",
         "dailyfaceoff": "new-york-rangers",
-        "eliteprospects": "68",
+        "eliteprospects_id": "68",
+        "eliteprospects_name": "new-york-rangers",
         "highlights": "NYR",
         "hockey-reference": "NYR",
         "hockeydb": "00007089",
@@ -380,7 +399,8 @@
       "refs": {
         "capfriendly": "senators",
         "dailyfaceoff": "ottawa-senators",
-        "eliteprospects": "69",
+        "eliteprospects_id": "69",
+        "eliteprospects_name": "ottawa-senators",
         "highlights": "OTT",
         "hockey-reference": "OTT",
         "hockeydb": "00007328",
@@ -399,7 +419,8 @@
       "refs": {
         "capfriendly": "flyers",
         "dailyfaceoff": "philadelphia-flyers",
-        "eliteprospects": "70",
+        "eliteprospects_id": "70",
+        "eliteprospects_name": "philadelphia-flyers",
         "highlights": "PHI",
         "hockey-reference": "PHI",
         "hockeydb": "00007439",
@@ -418,7 +439,8 @@
       "refs": {
         "capfriendly": "coyotes",
         "dailyfaceoff": "arizona-coyotes",
-        "eliteprospects": "72",
+        "eliteprospects_id": "72",
+        "eliteprospects_name": "arizona-coyotes",
         "highlights": "ARI",
         "hockey-reference": "ARI",
         "hockeydb": "00007450",
@@ -438,7 +460,8 @@
       "refs": {
         "capfriendly": "penguins",
         "dailyfaceoff": "pittsburgh-penguins",
-        "eliteprospects": "71",
+        "eliteprospects_id": "71",
+        "eliteprospects_name": "pittsburgh-penguins",
         "highlights": "PIT",
         "hockey-reference": "PIT",
         "hockeydb": "00007475",
@@ -457,7 +480,8 @@
       "refs": {
         "capfriendly": "sharks",
         "dailyfaceoff": "san-jose-sharks",
-        "eliteprospects": "73",
+        "eliteprospects_id": "73",
+        "eliteprospects_name": "san-jose-sharks",
         "highlights": "SJS",
         "hockey-reference": "SJS",
         "hockeydb": "00007877",
@@ -476,7 +500,8 @@
       "refs": {
         "capfriendly": "blues",
         "dailyfaceoff": "st-louis-blues",
-        "eliteprospects": "74",
+        "eliteprospects_id": "74",
+        "eliteprospects_name": "st-louis-blues",
         "highlights": "STL",
         "hockey-reference": "STL",
         "hockeydb": "00008187",
@@ -496,7 +521,8 @@
       "refs": {
         "capfriendly": "lightning",
         "dailyfaceoff": "tampa-bay-lightning",
-        "eliteprospects": "75",
+        "eliteprospects_id": "75",
+        "eliteprospects_name": "tampa-bay-lightning",
         "highlights": "TBL",
         "hockey-reference": "TBL",
         "hockeydb": "00008385",
@@ -516,7 +542,8 @@
       "refs": {
         "capfriendly": "mapleleafs",
         "dailyfaceoff": "toronto-maple-leafs",
-        "eliteprospects": "76",
+        "eliteprospects_id": "76",
+        "eliteprospects_name": "toronto-maple-leafs",
         "highlights": "TOR",
         "hockey-reference": "TOR",
         "hockeydb": "00008490",
@@ -534,14 +561,15 @@
       "city": "vancouver",
       "code": "van",
       "refs": {
-        "capfriendly": "canucks",
+        "capfriendly": "caucks",
         "dailyfaceoff": "vancouver-canucks",
-        "eliteprospects": "77",
+        "eliteprospects_id": "77",
+        "eliteprospects_name": "vancouver-canucks",
         "highlights": "VAN",
         "hockey-reference": "VAN",
         "hockeydb": "00008756",
-        "nhl": "canucks",
-        "nhltradetracker": "vancouver_canucks",
+        "nhl": "caucks",
+        "nhltradetracker": "vancouver_caucks",
         "reddit": "canucks"
       }
     },
@@ -556,7 +584,8 @@
       "refs": {
         "capfriendly": "goldenknights",
         "dailyfaceoff": "vegas-golden-knights",
-        "eliteprospects": "22211",
+        "eliteprospects_id": "22211",
+        "eliteprospects_name": "vegas-golden-knights",
         "highlights": "VGK",
         "hockey-reference": "VEG",
         "hockeydb": "00011894",
@@ -576,7 +605,8 @@
       "refs": {
         "capfriendly": "capitals",
         "dailyfaceoff": "washington-capitals",
-        "eliteprospects": "78",
+        "eliteprospects_id": "78",
+        "eliteprospects_name": "washington-capitals",
         "highlights": "WSH",
         "hockey-reference": "WSH",
         "hockeydb": "00008871",
@@ -595,7 +625,8 @@
       "refs": {
         "capfriendly": "jets",
         "dailyfaceoff": "winnipeg-jets",
-        "eliteprospects": "9966",
+        "eliteprospects_id": "9966",
+        "eliteprospects_name": "winnipeg-jets",
         "highlights": "WPG",
         "hockey-reference": "WPG",
         "hockeydb": "00010675",
