@@ -561,15 +561,15 @@
       "city": "vancouver",
       "code": "van",
       "refs": {
-        "capfriendly": "caucks",
+        "capfriendly": "canucks",
         "dailyfaceoff": "vancouver-canucks",
         "eliteprospects_id": "77",
         "eliteprospects_name": "vancouver-canucks",
         "highlights": "VAN",
         "hockey-reference": "VAN",
         "hockeydb": "00008756",
-        "nhl": "caucks",
-        "nhltradetracker": "vancouver_caucks",
+        "nhl": "canucks",
+        "nhltradetracker": "vancouver_canucks",
         "reddit": "canucks"
       }
     },
